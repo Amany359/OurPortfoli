@@ -1,10 +1,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
 /.phpunit.cache
 /node_modules
 /public/build
@@ -23,6 +26,7 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -61,3 +65,5 @@ auth.json
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee

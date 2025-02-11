@@ -9,11 +9,14 @@
         "guzzlehttp/guzzle": "^7.2",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "ichtrojan/laravel-otp": "^2.0",
 =======
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
         "laravel/framework": "^10.0",
         "laravel/sanctum": "^3.3",
         "laravel/tinker": "^2.8"

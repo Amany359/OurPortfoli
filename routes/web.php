@@ -2,12 +2,15 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 use App\Http\Controllers\TestController;
 use Illuminate\Support\Facades\Auth;
 =======
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -26,8 +29,11 @@ Route::get('/', function () {
 });
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee

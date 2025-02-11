@@ -183,6 +183,7 @@ return [
         Illuminate\View\ViewServiceProvider::class,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
      
 =======
 
@@ -190,6 +191,9 @@ return [
 =======
 
 >>>>>>> feature/Projects
+=======
+
+>>>>>>> feature/Employee
         /*
          * Package Service Providers...
          */
@@ -204,11 +208,14 @@ return [
         App\Providers\RouteServiceProvider::class,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         Ichtrojan\Otp\OtpServiceProvider::class,
 =======
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
 
     ],
 
@@ -227,11 +234,14 @@ return [
         // 'ExampleClass' => App\Example\ExampleClass::class,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         'Otp'=>Ichtrojan\Otp\Otp::class,
 =======
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
     ])->toArray(),
 
 ];

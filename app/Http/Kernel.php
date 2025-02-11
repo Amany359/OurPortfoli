@@ -4,11 +4,14 @@ namespace App\Http;
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 use Illuminate\Auth\Middleware\CheckLangApi;
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
 use Illuminate\Foundation\Http\Kernel as HttpKernel;
 
 class Kernel extends HttpKernel
@@ -73,11 +76,14 @@ class Kernel extends HttpKernel
         'verified' => \Illuminate\Auth\Middleware\EnsureEmailIsVerified::class,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
         'CheckLangApi' => CheckLangApi::class,
 
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
     ];
 }

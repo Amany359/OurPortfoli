@@ -6,6 +6,7 @@
     ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "content-hash": "b941ac17076ddb99d315cb71819b9267",
 =======
     "content-hash": "0f28b2b53739478e11d75c45a7cd25fb",
@@ -13,6 +14,9 @@
 =======
     "content-hash": "0f28b2b53739478e11d75c45a7cd25fb",
 >>>>>>> feature/Projects
+=======
+    "content-hash": "0f28b2b53739478e11d75c45a7cd25fb",
+>>>>>>> feature/Employee
     "packages": [
         {
             "name": "brick/math",
@@ -455,6 +459,9 @@
             "name": "egulias/email-validator",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "version": "4.0.2",
             "source": {
                 "type": "git",
@@ -465,6 +472,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/egulias/EmailValidator/zipball/ebaaf5be6c0286928352e054f2d5125608e5405e",
                 "reference": "ebaaf5be6c0286928352e054f2d5125608e5405e",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -482,6 +490,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -529,6 +539,7 @@
                 "issues": "https://github.com/egulias/EmailValidator/issues",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/egulias/EmailValidator/tree/4.0.2"
 =======
                 "source": "https://github.com/egulias/EmailValidator/tree/4.0.3"
@@ -536,6 +547,9 @@
 =======
                 "source": "https://github.com/egulias/EmailValidator/tree/4.0.3"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/egulias/EmailValidator/tree/4.0.2"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -545,6 +559,7 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2023-10-06T06:47:41+00:00"
 =======
             "time": "2024-12-27T00:36:43+00:00"
@@ -552,6 +567,9 @@
 =======
             "time": "2024-12-27T00:36:43+00:00"
 >>>>>>> feature/Projects
+=======
+            "time": "2023-10-06T06:47:41+00:00"
+>>>>>>> feature/Employee
         },
         {
             "name": "fruitcake/php-cors",
@@ -1100,6 +1118,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "name": "ichtrojan/laravel-otp",
             "version": "v2.0.0",
             "source": {
@@ -1147,6 +1166,8 @@
             "time": "2023-12-24T22:16:55+00:00"
         },
         {
+=======
+>>>>>>> feature/Employee
             "name": "laravel/framework",
             "version": "v10.48.24",
             "source": {
@@ -1158,6 +1179,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/framework/zipball/2add73f71b88fc45ee1d4f3421f22366247f6155",
                 "reference": "2add73f71b88fc45ee1d4f3421f22366247f6155",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -1176,6 +1198,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -1284,6 +1308,7 @@
                 "pda/pheanstalk": "^4.0",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "phpstan/phpstan": "^1.4.7",
 =======
                 "phpstan/phpstan": "~1.11.11",
@@ -1291,6 +1316,9 @@
 =======
                 "phpstan/phpstan": "~1.11.11",
 >>>>>>> feature/Projects
+=======
+                "phpstan/phpstan": "^1.4.7",
+>>>>>>> feature/Employee
                 "phpunit/phpunit": "^10.0.7",
                 "predis/predis": "^2.0.2",
                 "symfony/cache": "^6.2",
@@ -1379,6 +1407,7 @@
             },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2024-11-20T15:57:07+00:00"
 =======
             "time": "2024-11-26T15:32:57+00:00"
@@ -1386,6 +1415,9 @@
 =======
             "time": "2024-11-26T15:32:57+00:00"
 >>>>>>> feature/Projects
+=======
+            "time": "2024-11-20T15:57:07+00:00"
+>>>>>>> feature/Employee
         },
         {
             "name": "laravel/prompts",
@@ -1477,6 +1509,7 @@
             "extra": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "branch-alias": {
                     "dev-master": "3.x-dev"
                 },
@@ -1484,12 +1517,18 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+                "branch-alias": {
+                    "dev-master": "3.x-dev"
+                },
+>>>>>>> feature/Employee
                 "laravel": {
                     "providers": [
                         "Laravel\\Sanctum\\SanctumServiceProvider"
                     ]
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
                 },
                 "branch-alias": {
@@ -1500,6 +1539,8 @@
                 "branch-alias": {
                     "dev-master": "3.x-dev"
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -1660,6 +1701,9 @@
             "name": "league/commonmark",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "version": "2.5.3",
             "source": {
                 "type": "git",
@@ -1670,6 +1714,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/thephpleague/commonmark/zipball/b650144166dfa7703e62a22e493b853b58d874b0",
                 "reference": "b650144166dfa7703e62a22e493b853b58d874b0",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -1687,6 +1732,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -1713,6 +1760,7 @@
                 "scrutinizer/ocular": "^1.8.1",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "symfony/finder": "^5.3 | ^6.0 || ^7.0",
                 "symfony/yaml": "^2.3 | ^3.0 | ^4.0 | ^5.0 | ^6.0 || ^7.0",
 =======
@@ -1725,6 +1773,10 @@
                 "symfony/process": "^5.4 | ^6.0 | ^7.0",
                 "symfony/yaml": "^2.3 | ^3.0 | ^4.0 | ^5.0 | ^6.0 | ^7.0",
 >>>>>>> feature/Projects
+=======
+                "symfony/finder": "^5.3 | ^6.0 || ^7.0",
+                "symfony/yaml": "^2.3 | ^3.0 | ^4.0 | ^5.0 | ^6.0 || ^7.0",
+>>>>>>> feature/Employee
                 "unleashedtech/php-coding-standard": "^3.1.1",
                 "vimeo/psalm": "^4.24.0 || ^5.0.0"
             },
@@ -1736,6 +1788,7 @@
                 "branch-alias": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "dev-main": "2.6-dev"
 =======
                     "dev-main": "2.7-dev"
@@ -1743,6 +1796,9 @@
 =======
                     "dev-main": "2.7-dev"
 >>>>>>> feature/Projects
+=======
+                    "dev-main": "2.6-dev"
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -1801,6 +1857,7 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2024-08-16T11:46:16+00:00"
 =======
             "time": "2024-12-29T14:10:59+00:00"
@@ -1808,6 +1865,9 @@
 =======
             "time": "2024-12-29T14:10:59+00:00"
 >>>>>>> feature/Projects
+=======
+            "time": "2024-08-16T11:46:16+00:00"
+>>>>>>> feature/Employee
         },
         {
             "name": "league/config",
@@ -2083,6 +2143,9 @@
             "name": "monolog/monolog",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "version": "3.8.0",
             "source": {
                 "type": "git",
@@ -2093,6 +2156,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/Seldaek/monolog/zipball/32e515fdc02cdafbe4593e30a9350d486b125b67",
                 "reference": "32e515fdc02cdafbe4593e30a9350d486b125b67",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -2110,6 +2174,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -2189,6 +2255,7 @@
                 "issues": "https://github.com/Seldaek/monolog/issues",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/Seldaek/monolog/tree/3.8.0"
 =======
                 "source": "https://github.com/Seldaek/monolog/tree/3.8.1"
@@ -2196,6 +2263,9 @@
 =======
                 "source": "https://github.com/Seldaek/monolog/tree/3.8.1"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/Seldaek/monolog/tree/3.8.0"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -2209,6 +2279,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "time": "2024-11-12T13:57:08+00:00"
         },
         {
@@ -2223,6 +2296,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/afd46589c216118ecd48ff2b95d77596af1e57ed",
                 "reference": "afd46589c216118ecd48ff2b95d77596af1e57ed",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -2244,6 +2318,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -2265,6 +2341,7 @@
                 "kylekatarnls/multi-tester": "^2.0",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "ondrejmirtes/better-reflection": "*",
 =======
                 "ondrejmirtes/better-reflection": "<6",
@@ -2272,6 +2349,9 @@
 =======
                 "ondrejmirtes/better-reflection": "<6",
 >>>>>>> feature/Projects
+=======
+                "ondrejmirtes/better-reflection": "*",
+>>>>>>> feature/Employee
                 "phpmd/phpmd": "^2.9",
                 "phpstan/extension-installer": "^1.0",
                 "phpstan/phpstan": "^0.12.99 || ^1.7.14",
@@ -2286,14 +2366,20 @@
             "extra": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
                 "branch-alias": {
                     "dev-master": "3.x-dev",
                     "dev-2.x": "2.x-dev"
                 },
+<<<<<<< HEAD
 =======
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "laravel": {
                     "providers": [
                         "Carbon\\Laravel\\ServiceProvider"
@@ -2303,6 +2389,7 @@
                     "includes": [
                         "extension.neon"
                     ]
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -2316,6 +2403,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -2366,6 +2455,7 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2024-06-03T19:18:41+00:00"
 =======
             "time": "2024-12-27T09:28:11+00:00"
@@ -2373,6 +2463,9 @@
 =======
             "time": "2024-12-27T09:28:11+00:00"
 >>>>>>> feature/Projects
+=======
+            "time": "2024-06-03T19:18:41+00:00"
+>>>>>>> feature/Employee
         },
         {
             "name": "nette/schema",
@@ -2526,6 +2619,9 @@
             "name": "nikic/php-parser",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "version": "v5.3.1",
             "source": {
                 "type": "git",
@@ -2536,6 +2632,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/8eea230464783aa9671db8eea6f8c6ac5285794b",
                 "reference": "8eea230464783aa9671db8eea6f8c6ac5285794b",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -2553,6 +2650,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -2597,6 +2696,7 @@
                 "issues": "https://github.com/nikic/PHP-Parser/issues",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/nikic/PHP-Parser/tree/v5.3.1"
             },
             "time": "2024-10-08T18:51:32+00:00"
@@ -2610,6 +2710,11 @@
             },
             "time": "2024-12-30T11:07:19+00:00"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/nikic/PHP-Parser/tree/v5.3.1"
+            },
+            "time": "2024-10-08T18:51:32+00:00"
+>>>>>>> feature/Employee
         },
         {
             "name": "nunomaduro/termwind",
@@ -3187,6 +3292,9 @@
             "name": "psy/psysh",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "version": "v0.12.4",
             "source": {
                 "type": "git",
@@ -3197,6 +3305,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/bobthecow/psysh/zipball/2fd717afa05341b4f8152547f142cd2f130f6818",
                 "reference": "2fd717afa05341b4f8152547f142cd2f130f6818",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -3214,6 +3323,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -3242,12 +3353,16 @@
             "extra": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
                 "branch-alias": {
                     "dev-main": "0.12.x-dev"
                 },
                 "bamarni-bin": {
                     "bin-links": false,
                     "forward-command": false
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -3261,6 +3376,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -3294,6 +3411,7 @@
                 "issues": "https://github.com/bobthecow/psysh/issues",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/bobthecow/psysh/tree/v0.12.4"
             },
             "time": "2024-06-10T01:18:23+00:00"
@@ -3307,6 +3425,11 @@
             },
             "time": "2024-12-10T01:58:33+00:00"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/bobthecow/psysh/tree/v0.12.4"
+            },
+            "time": "2024-06-10T01:18:23+00:00"
+>>>>>>> feature/Employee
         },
         {
             "name": "ralouphie/getallheaders",
@@ -3537,6 +3660,9 @@
             "name": "symfony/console",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "version": "v6.4.15",
             "source": {
                 "type": "git",
@@ -3547,6 +3673,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/console/zipball/f1fc6f47283e27336e7cebb9e8946c8de7bff9bd",
                 "reference": "f1fc6f47283e27336e7cebb9e8946c8de7bff9bd",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -3564,6 +3691,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -3630,6 +3759,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/console/tree/v6.4.15"
 =======
                 "source": "https://github.com/symfony/console/tree/v6.4.17"
@@ -3637,6 +3767,9 @@
 =======
                 "source": "https://github.com/symfony/console/tree/v6.4.17"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/symfony/console/tree/v6.4.15"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -3654,6 +3787,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "time": "2024-11-06T14:19:14+00:00"
         },
         {
@@ -3672,6 +3808,7 @@
             },
             "require": {
                 "php": ">=8.2"
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -3711,6 +3848,8 @@
             "require": {
                 "php": ">=8.2"
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
             },
             "type": "library",
             "autoload": {
@@ -3744,6 +3883,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/css-selector/tree/v7.1.6"
 =======
                 "source": "https://github.com/symfony/css-selector/tree/v6.4.13"
@@ -3751,6 +3891,9 @@
 =======
                 "source": "https://github.com/symfony/css-selector/tree/v7.2.0"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/symfony/css-selector/tree/v7.1.6"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -3768,6 +3911,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "time": "2024-09-25T14:20:29+00:00"
         },
         {
@@ -3782,6 +3928,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/deprecation-contracts/zipball/0e0d29ce1f20deffb4ab1b016a7257c4f1e789a1",
                 "reference": "0e0d29ce1f20deffb4ab1b016a7257c4f1e789a1",
+<<<<<<< HEAD
 =======
             "time": "2024-09-25T14:18:03+00:00"
 =======
@@ -3804,6 +3951,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -3813,12 +3962,16 @@
             "extra": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
                 "branch-alias": {
                     "dev-main": "3.5-dev"
                 },
                 "thanks": {
                     "name": "symfony/contracts",
                     "url": "https://github.com/symfony/contracts"
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -3832,6 +3985,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -3858,6 +4013,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/deprecation-contracts/tree/v3.5.0"
 =======
                 "source": "https://github.com/symfony/deprecation-contracts/tree/v3.5.1"
@@ -3865,6 +4021,9 @@
 =======
                 "source": "https://github.com/symfony/deprecation-contracts/tree/v3.5.1"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/symfony/deprecation-contracts/tree/v3.5.0"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -3882,6 +4041,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "time": "2024-04-18T09:32:20+00:00"
         },
         {
@@ -3896,6 +4058,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/error-handler/zipball/9e024324511eeb00983ee76b9aedc3e6ecd993d9",
                 "reference": "9e024324511eeb00983ee76b9aedc3e6ecd993d9",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -3917,6 +4080,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -3964,6 +4129,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/error-handler/tree/v6.4.14"
 =======
                 "source": "https://github.com/symfony/error-handler/tree/v6.4.17"
@@ -3971,6 +4137,9 @@
 =======
                 "source": "https://github.com/symfony/error-handler/tree/v6.4.17"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/symfony/error-handler/tree/v6.4.14"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -3988,6 +4157,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "time": "2024-11-05T15:34:40+00:00"
         },
         {
@@ -4002,6 +4174,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/87254c78dd50721cfd015b62277a8281c5589702",
                 "reference": "87254c78dd50721cfd015b62277a8281c5589702",
+<<<<<<< HEAD
 =======
             "time": "2024-12-06T13:30:51+00:00"
         },
@@ -4018,6 +4191,8 @@
                 "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/910c5db85a5356d0fea57680defec4e99eb9c8c1",
                 "reference": "910c5db85a5356d0fea57680defec4e99eb9c8c1",
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -4026,6 +4201,7 @@
             },
             "conflict": {
                 "symfony/dependency-injection": "<6.4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
             "time": "2024-12-06T13:30:51+00:00"
@@ -4053,6 +4229,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "symfony/service-contracts": "<2.5"
             },
             "provide": {
@@ -4063,8 +4241,11 @@
                 "psr/log": "^1|^2|^3",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "symfony/config": "^6.4|^7.0",
                 "symfony/dependency-injection": "^6.4|^7.0",
                 "symfony/error-handler": "^6.4|^7.0",
@@ -4072,6 +4253,7 @@
                 "symfony/http-foundation": "^6.4|^7.0",
                 "symfony/service-contracts": "^2.5|^3",
                 "symfony/stopwatch": "^6.4|^7.0"
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
                 "symfony/config": "^5.4|^6.0|^7.0",
@@ -4084,6 +4266,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
             },
             "type": "library",
             "autoload": {
@@ -4113,6 +4297,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/event-dispatcher/tree/v7.1.6"
 =======
                 "source": "https://github.com/symfony/event-dispatcher/tree/v6.4.13"
@@ -4120,6 +4305,9 @@
 =======
                 "source": "https://github.com/symfony/event-dispatcher/tree/v7.2.0"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/symfony/event-dispatcher/tree/v7.1.6"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -4137,6 +4325,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "time": "2024-09-25T14:20:29+00:00"
         },
         {
@@ -4151,6 +4342,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/event-dispatcher-contracts/zipball/8f93aec25d41b72493c6ddff14e916177c9efc50",
                 "reference": "8f93aec25d41b72493c6ddff14e916177c9efc50",
+<<<<<<< HEAD
 =======
             "time": "2024-09-25T14:18:03+00:00"
 =======
@@ -4173,6 +4365,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -4183,12 +4377,16 @@
             "extra": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
                 "branch-alias": {
                     "dev-main": "3.5-dev"
                 },
                 "thanks": {
                     "name": "symfony/contracts",
                     "url": "https://github.com/symfony/contracts"
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -4202,6 +4400,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -4236,6 +4436,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/event-dispatcher-contracts/tree/v3.5.0"
 =======
                 "source": "https://github.com/symfony/event-dispatcher-contracts/tree/v3.5.1"
@@ -4243,6 +4444,9 @@
 =======
                 "source": "https://github.com/symfony/event-dispatcher-contracts/tree/v3.5.1"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/symfony/event-dispatcher-contracts/tree/v3.5.0"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -4260,6 +4464,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "time": "2024-04-18T09:32:20+00:00"
         },
         {
@@ -4274,6 +4481,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/finder/zipball/daea9eca0b08d0ed1dc9ab702a46128fd1be4958",
                 "reference": "daea9eca0b08d0ed1dc9ab702a46128fd1be4958",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -4295,6 +4503,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -4331,6 +4541,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/finder/tree/v6.4.13"
 =======
                 "source": "https://github.com/symfony/finder/tree/v6.4.17"
@@ -4338,6 +4549,9 @@
 =======
                 "source": "https://github.com/symfony/finder/tree/v6.4.17"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/symfony/finder/tree/v6.4.13"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -4355,6 +4569,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "time": "2024-10-01T08:30:56+00:00"
         },
         {
@@ -4369,6 +4586,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/http-foundation/zipball/9b3165eb2f04aeaa1a5a2cfef73e63fe3b22dff6",
                 "reference": "9b3165eb2f04aeaa1a5a2cfef73e63fe3b22dff6",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -4390,6 +4608,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -4439,6 +4659,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/http-foundation/tree/v6.4.15"
 =======
                 "source": "https://github.com/symfony/http-foundation/tree/v6.4.16"
@@ -4446,6 +4667,9 @@
 =======
                 "source": "https://github.com/symfony/http-foundation/tree/v6.4.16"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/symfony/http-foundation/tree/v6.4.15"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -4463,6 +4687,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "time": "2024-11-08T16:09:24+00:00"
         },
         {
@@ -4477,6 +4704,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/http-kernel/zipball/b002a5b3947653c5aee3adac2a024ea615fd3ff5",
                 "reference": "b002a5b3947653c5aee3adac2a024ea615fd3ff5",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -4498,6 +4726,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -4584,6 +4814,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/http-kernel/tree/v6.4.15"
 =======
                 "source": "https://github.com/symfony/http-kernel/tree/v6.4.17"
@@ -4591,6 +4822,9 @@
 =======
                 "source": "https://github.com/symfony/http-kernel/tree/v6.4.17"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/symfony/http-kernel/tree/v6.4.15"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -4608,6 +4842,7 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2024-11-13T13:57:37+00:00"
 =======
             "time": "2024-12-31T14:49:31+00:00"
@@ -4615,6 +4850,9 @@
 =======
             "time": "2024-12-31T14:49:31+00:00"
 >>>>>>> feature/Projects
+=======
+            "time": "2024-11-13T13:57:37+00:00"
+>>>>>>> feature/Employee
         },
         {
             "name": "symfony/mailer",
@@ -4700,6 +4938,9 @@
             "name": "symfony/mime",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "version": "v6.4.13",
             "source": {
                 "type": "git",
@@ -4710,6 +4951,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/mime/zipball/1de1cf14d99b12c7ebbb850491ec6ae3ed468855",
                 "reference": "1de1cf14d99b12c7ebbb850491ec6ae3ed468855",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -4727,6 +4969,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -4784,6 +5028,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/mime/tree/v6.4.13"
 =======
                 "source": "https://github.com/symfony/mime/tree/v6.4.17"
@@ -4791,6 +5036,9 @@
 =======
                 "source": "https://github.com/symfony/mime/tree/v6.4.17"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/symfony/mime/tree/v6.4.13"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -4808,6 +5056,7 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2024-10-25T15:07:50+00:00"
 =======
             "time": "2024-12-02T11:09:41+00:00"
@@ -4815,6 +5064,9 @@
 =======
             "time": "2024-12-02T11:09:41+00:00"
 >>>>>>> feature/Projects
+=======
+            "time": "2024-10-25T15:07:50+00:00"
+>>>>>>> feature/Employee
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -4844,6 +5096,7 @@
                 "thanks": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "name": "symfony/polyfill",
                     "url": "https://github.com/symfony/polyfill"
 =======
@@ -4854,6 +5107,10 @@
                     "url": "https://github.com/symfony/polyfill",
                     "name": "symfony/polyfill"
 >>>>>>> feature/Projects
+=======
+                    "name": "symfony/polyfill",
+                    "url": "https://github.com/symfony/polyfill"
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -4930,6 +5187,7 @@
                 "thanks": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "name": "symfony/polyfill",
                     "url": "https://github.com/symfony/polyfill"
 =======
@@ -4940,6 +5198,10 @@
                     "url": "https://github.com/symfony/polyfill",
                     "name": "symfony/polyfill"
 >>>>>>> feature/Projects
+=======
+                    "name": "symfony/polyfill",
+                    "url": "https://github.com/symfony/polyfill"
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -5019,6 +5281,7 @@
                 "thanks": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "name": "symfony/polyfill",
                     "url": "https://github.com/symfony/polyfill"
 =======
@@ -5029,6 +5292,10 @@
                     "url": "https://github.com/symfony/polyfill",
                     "name": "symfony/polyfill"
 >>>>>>> feature/Projects
+=======
+                    "name": "symfony/polyfill",
+                    "url": "https://github.com/symfony/polyfill"
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -5111,6 +5378,7 @@
                 "thanks": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "name": "symfony/polyfill",
                     "url": "https://github.com/symfony/polyfill"
 =======
@@ -5121,6 +5389,10 @@
                     "url": "https://github.com/symfony/polyfill",
                     "name": "symfony/polyfill"
 >>>>>>> feature/Projects
+=======
+                    "name": "symfony/polyfill",
+                    "url": "https://github.com/symfony/polyfill"
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -5205,6 +5477,7 @@
                 "thanks": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "name": "symfony/polyfill",
                     "url": "https://github.com/symfony/polyfill"
 =======
@@ -5215,6 +5488,10 @@
                     "url": "https://github.com/symfony/polyfill",
                     "name": "symfony/polyfill"
 >>>>>>> feature/Projects
+=======
+                    "name": "symfony/polyfill",
+                    "url": "https://github.com/symfony/polyfill"
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -5289,6 +5566,7 @@
                 "thanks": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "name": "symfony/polyfill",
                     "url": "https://github.com/symfony/polyfill"
 =======
@@ -5299,6 +5577,10 @@
                     "url": "https://github.com/symfony/polyfill",
                     "name": "symfony/polyfill"
 >>>>>>> feature/Projects
+=======
+                    "name": "symfony/polyfill",
+                    "url": "https://github.com/symfony/polyfill"
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -5379,6 +5661,7 @@
                 "thanks": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "name": "symfony/polyfill",
                     "url": "https://github.com/symfony/polyfill"
 =======
@@ -5389,6 +5672,10 @@
                     "url": "https://github.com/symfony/polyfill",
                     "name": "symfony/polyfill"
 >>>>>>> feature/Projects
+=======
+                    "name": "symfony/polyfill",
+                    "url": "https://github.com/symfony/polyfill"
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -5471,6 +5758,7 @@
                 "thanks": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "name": "symfony/polyfill",
                     "url": "https://github.com/symfony/polyfill"
 =======
@@ -5481,6 +5769,10 @@
                     "url": "https://github.com/symfony/polyfill",
                     "name": "symfony/polyfill"
 >>>>>>> feature/Projects
+=======
+                    "name": "symfony/polyfill",
+                    "url": "https://github.com/symfony/polyfill"
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -5597,6 +5889,9 @@
             "name": "symfony/routing",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "version": "v6.4.13",
             "source": {
                 "type": "git",
@@ -5607,6 +5902,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/routing/zipball/640a74250d13f9c30d5ca045b6aaaabcc8215278",
                 "reference": "640a74250d13f9c30d5ca045b6aaaabcc8215278",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -5624,6 +5920,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -5679,6 +5977,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/routing/tree/v6.4.13"
 =======
                 "source": "https://github.com/symfony/routing/tree/v6.4.16"
@@ -5686,6 +5985,9 @@
 =======
                 "source": "https://github.com/symfony/routing/tree/v6.4.16"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/symfony/routing/tree/v6.4.13"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -5703,6 +6005,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "time": "2024-10-01T08:30:56+00:00"
         },
         {
@@ -5717,6 +6022,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/service-contracts/zipball/bd1d9e59a81d8fa4acdcea3f617c581f7475a80f",
                 "reference": "bd1d9e59a81d8fa4acdcea3f617c581f7475a80f",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -5738,6 +6044,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -5752,12 +6060,16 @@
             "extra": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
                 "branch-alias": {
                     "dev-main": "3.5-dev"
                 },
                 "thanks": {
                     "name": "symfony/contracts",
                     "url": "https://github.com/symfony/contracts"
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -5771,6 +6083,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -5808,6 +6122,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/service-contracts/tree/v3.5.0"
 =======
                 "source": "https://github.com/symfony/service-contracts/tree/v3.5.1"
@@ -5815,6 +6130,9 @@
 =======
                 "source": "https://github.com/symfony/service-contracts/tree/v3.5.1"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/symfony/service-contracts/tree/v3.5.0"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -5832,6 +6150,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "time": "2024-04-18T09:32:20+00:00"
         },
         {
@@ -5850,6 +6171,7 @@
             },
             "require": {
                 "php": ">=8.2",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -5889,6 +6211,8 @@
             "require": {
                 "php": ">=8.2",
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "symfony/polyfill-ctype": "~1.8",
                 "symfony/polyfill-intl-grapheme": "~1.0",
                 "symfony/polyfill-intl-normalizer": "~1.0",
@@ -5900,14 +6224,18 @@
             "require-dev": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "symfony/emoji": "^7.1",
                 "symfony/error-handler": "^6.4|^7.0",
                 "symfony/http-client": "^6.4|^7.0",
                 "symfony/intl": "^6.4|^7.0",
                 "symfony/translation-contracts": "^2.5|^3.0",
                 "symfony/var-exporter": "^6.4|^7.0"
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
                 "symfony/error-handler": "^5.4|^6.0|^7.0",
@@ -5918,6 +6246,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
             },
             "type": "library",
             "autoload": {
@@ -5958,6 +6288,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/string/tree/v7.1.8"
 =======
                 "source": "https://github.com/symfony/string/tree/v6.4.15"
@@ -5965,6 +6296,9 @@
 =======
                 "source": "https://github.com/symfony/string/tree/v7.2.0"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/symfony/string/tree/v7.1.8"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -5982,6 +6316,7 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2024-11-13T13:31:21+00:00"
 =======
             "time": "2024-11-13T13:31:12+00:00"
@@ -5989,6 +6324,9 @@
 =======
             "time": "2024-11-13T13:31:26+00:00"
 >>>>>>> feature/Projects
+=======
+            "time": "2024-11-13T13:31:21+00:00"
+>>>>>>> feature/Employee
         },
         {
             "name": "symfony/translation",
@@ -6089,6 +6427,9 @@
             "name": "symfony/translation-contracts",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "version": "v3.5.0",
             "source": {
                 "type": "git",
@@ -6099,6 +6440,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/translation-contracts/zipball/b9d2189887bb6b2e0367a9fc7136c5239ab9b05a",
                 "reference": "b9d2189887bb6b2e0367a9fc7136c5239ab9b05a",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -6116,6 +6458,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -6125,12 +6469,16 @@
             "extra": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
                 "branch-alias": {
                     "dev-main": "3.5-dev"
                 },
                 "thanks": {
                     "name": "symfony/contracts",
                     "url": "https://github.com/symfony/contracts"
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -6144,6 +6492,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -6181,6 +6531,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/translation-contracts/tree/v3.5.0"
 =======
                 "source": "https://github.com/symfony/translation-contracts/tree/v3.5.1"
@@ -6188,6 +6539,9 @@
 =======
                 "source": "https://github.com/symfony/translation-contracts/tree/v3.5.1"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/symfony/translation-contracts/tree/v3.5.0"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -6205,6 +6559,7 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2024-04-18T09:32:20+00:00"
 =======
             "time": "2024-09-25T14:20:29+00:00"
@@ -6212,6 +6567,9 @@
 =======
             "time": "2024-09-25T14:20:29+00:00"
 >>>>>>> feature/Projects
+=======
+            "time": "2024-04-18T09:32:20+00:00"
+>>>>>>> feature/Employee
         },
         {
             "name": "symfony/uid",
@@ -6376,6 +6734,9 @@
             "name": "tijsverkoyen/css-to-inline-styles",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "version": "v2.2.7",
             "source": {
                 "type": "git",
@@ -6386,6 +6747,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/tijsverkoyen/CssToInlineStyles/zipball/83ee6f38df0a63106a9e4536e3060458b74ccedb",
                 "reference": "83ee6f38df0a63106a9e4536e3060458b74ccedb",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -6403,6 +6765,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -6410,11 +6774,15 @@
                 "ext-libxml": "*",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
                 "php": "^5.5 || ^7.0 || ^8.0",
                 "symfony/css-selector": "^2.7 || ^3.0 || ^4.0 || ^5.0 || ^6.0 || ^7.0"
             },
             "require-dev": {
                 "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.0 || ^7.5 || ^8.5.21 || ^9.5.10"
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -6429,10 +6797,13 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                     "dev-master": "2.2.x-dev"
@@ -6442,6 +6813,9 @@
 =======
                     "dev-master": "2.x-dev"
 >>>>>>> feature/Projects
+=======
+                    "dev-master": "2.2.x-dev"
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -6466,6 +6840,7 @@
                 "issues": "https://github.com/tijsverkoyen/CssToInlineStyles/issues",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/tijsverkoyen/CssToInlineStyles/tree/v2.2.7"
             },
             "time": "2023-12-08T13:03:43+00:00"
@@ -6479,6 +6854,11 @@
             },
             "time": "2024-12-21T16:25:41+00:00"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/tijsverkoyen/CssToInlineStyles/tree/v2.2.7"
+            },
+            "time": "2023-12-08T13:03:43+00:00"
+>>>>>>> feature/Employee
         },
         {
             "name": "vlucas/phpdotenv",
@@ -6887,6 +7267,9 @@
             "name": "laravel/pint",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "version": "v1.18.2",
             "source": {
                 "type": "git",
@@ -6897,6 +7280,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/pint/zipball/f55daaf7eb6c2f49ddf6702fb42e3091c64d8a64",
                 "reference": "f55daaf7eb6c2f49ddf6702fb42e3091c64d8a64",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -6914,6 +7298,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -6926,6 +7312,9 @@
             "require-dev": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
                 "friendsofphp/php-cs-fixer": "^3.64.0",
                 "illuminate/view": "^10.48.20",
                 "larastan/larastan": "^2.9.8",
@@ -6933,6 +7322,7 @@
                 "mockery/mockery": "^1.6.12",
                 "nunomaduro/termwind": "^1.15.1",
                 "pestphp/pest": "^2.35.1"
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -6947,6 +7337,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
             },
             "bin": [
                 "builds/pint"
@@ -6984,6 +7376,9 @@
             },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "time": "2024-11-20T09:33:46+00:00"
         },
         {
@@ -6998,6 +7393,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/sail/zipball/d17abae06661dd6c46d13627b1683a2924259145",
                 "reference": "d17abae06661dd6c46d13627b1683a2924259145",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -7019,6 +7415,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -7070,6 +7468,7 @@
             },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2024-11-11T20:16:51+00:00"
 =======
             "time": "2025-01-13T16:57:11+00:00"
@@ -7077,6 +7476,9 @@
 =======
             "time": "2025-01-13T16:57:11+00:00"
 >>>>>>> feature/Projects
+=======
+            "time": "2024-11-11T20:16:51+00:00"
+>>>>>>> feature/Employee
         },
         {
             "name": "mockery/mockery",
@@ -7760,6 +8162,9 @@
             "name": "phpunit/phpunit",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "version": "10.5.38",
             "source": {
                 "type": "git",
@@ -7770,6 +8175,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/a86773b9e887a67bc53efa9da9ad6e3f2498c132",
                 "reference": "a86773b9e887a67bc53efa9da9ad6e3f2498c132",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -7787,6 +8193,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -7798,6 +8206,7 @@
                 "ext-xmlwriter": "*",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "myclabs/deep-copy": "^1.12.0",
 =======
                 "myclabs/deep-copy": "^1.12.1",
@@ -7805,6 +8214,9 @@
 =======
                 "myclabs/deep-copy": "^1.12.1",
 >>>>>>> feature/Projects
+=======
+                "myclabs/deep-copy": "^1.12.0",
+>>>>>>> feature/Employee
                 "phar-io/manifest": "^2.0.4",
                 "phar-io/version": "^3.2.1",
                 "php": ">=8.1",
@@ -7868,6 +8280,7 @@
                 "security": "https://github.com/sebastianbergmann/phpunit/security/policy",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/sebastianbergmann/phpunit/tree/10.5.38"
 =======
                 "source": "https://github.com/sebastianbergmann/phpunit/tree/10.5.41"
@@ -7875,6 +8288,9 @@
 =======
                 "source": "https://github.com/sebastianbergmann/phpunit/tree/10.5.41"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/sebastianbergmann/phpunit/tree/10.5.38"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -7892,6 +8308,7 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2024-10-28T13:06:21+00:00"
 =======
             "time": "2025-01-13T09:33:05+00:00"
@@ -7899,6 +8316,9 @@
 =======
             "time": "2025-01-13T09:33:05+00:00"
 >>>>>>> feature/Projects
+=======
+            "time": "2024-10-28T13:06:21+00:00"
+>>>>>>> feature/Employee
         },
         {
             "name": "sebastian/cli-parser",
@@ -8820,6 +9240,9 @@
             "name": "spatie/backtrace",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "version": "1.6.3",
             "source": {
                 "type": "git",
@@ -8841,6 +9264,7 @@
                 "phpunit/phpunit": "^9.3",
                 "spatie/phpunit-snapshot-assertions": "^4.2",
                 "symfony/var-dumper": "^5.1"
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -8869,6 +9293,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
             },
             "type": "library",
             "autoload": {
@@ -8897,6 +9323,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/spatie/backtrace/tree/1.6.3"
 =======
                 "source": "https://github.com/spatie/backtrace/tree/1.7.1"
@@ -8904,6 +9331,9 @@
 =======
                 "source": "https://github.com/spatie/backtrace/tree/1.7.1"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/spatie/backtrace/tree/1.6.3"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -8917,6 +9347,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "time": "2024-11-18T14:58:58+00:00"
         },
         {
@@ -8931,6 +9364,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/spatie/error-solutions/zipball/ae7393122eda72eed7cc4f176d1e96ea444f2d67",
                 "reference": "ae7393122eda72eed7cc4f176d1e96ea444f2d67",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -8952,6 +9386,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -9006,6 +9442,7 @@
                 "issues": "https://github.com/spatie/error-solutions/issues",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/spatie/error-solutions/tree/1.1.1"
 =======
                 "source": "https://github.com/spatie/error-solutions/tree/1.1.2"
@@ -9013,6 +9450,9 @@
 =======
                 "source": "https://github.com/spatie/error-solutions/tree/1.1.2"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/spatie/error-solutions/tree/1.1.1"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -9022,6 +9462,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "time": "2024-07-25T11:06:04+00:00"
         },
         {
@@ -9036,6 +9479,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/spatie/flare-client-php/zipball/180f8ca4c0d0d6fc51477bd8c53ce37ab5a96122",
                 "reference": "180f8ca4c0d0d6fc51477bd8c53ce37ab5a96122",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -9057,6 +9501,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -9106,6 +9552,7 @@
                 "issues": "https://github.com/spatie/flare-client-php/issues",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/spatie/flare-client-php/tree/1.8.0"
 =======
                 "source": "https://github.com/spatie/flare-client-php/tree/1.10.0"
@@ -9113,6 +9560,9 @@
 =======
                 "source": "https://github.com/spatie/flare-client-php/tree/1.10.0"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/spatie/flare-client-php/tree/1.8.0"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -9122,6 +9572,7 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2024-08-01T08:27:26+00:00"
 =======
             "time": "2024-12-02T14:30:06+00:00"
@@ -9129,6 +9580,9 @@
 =======
             "time": "2024-12-02T14:30:06+00:00"
 >>>>>>> feature/Projects
+=======
+            "time": "2024-08-01T08:27:26+00:00"
+>>>>>>> feature/Employee
         },
         {
             "name": "spatie/ignition",
@@ -9217,6 +9671,9 @@
             "name": "spatie/laravel-ignition",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "version": "2.8.0",
             "source": {
                 "type": "git",
@@ -9227,6 +9684,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/spatie/laravel-ignition/zipball/3c067b75bfb50574db8f7e2c3978c65eed71126c",
                 "reference": "3c067b75bfb50574db8f7e2c3978c65eed71126c",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -9244,6 +9702,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
@@ -9276,12 +9736,16 @@
                 "laravel": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
                     "providers": [
                         "Spatie\\LaravelIgnition\\IgnitionServiceProvider"
                     ],
                     "aliases": {
                         "Flare": "Spatie\\LaravelIgnition\\Facades\\Flare"
                     }
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature/Projects
@@ -9295,6 +9759,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 }
             },
             "autoload": {
@@ -9338,6 +9804,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/Employee
             "time": "2024-06-12T15:01:18+00:00"
         },
         {
@@ -9352,6 +9821,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/yaml/zipball/3ced3f29e4f0d6bce2170ff26719f1fe9aacc671",
                 "reference": "3ced3f29e4f0d6bce2170ff26719f1fe9aacc671",
+<<<<<<< HEAD
 =======
             "time": "2024-12-02T08:43:31+00:00"
         },
@@ -9368,14 +9838,19 @@
                 "url": "https://api.github.com/repos/symfony/yaml/zipball/099581e99f557e9f16b43c5916c26380b54abb22",
                 "reference": "099581e99f557e9f16b43c5916c26380b54abb22",
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "shasum": ""
             },
             "require": {
                 "php": ">=8.2",
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
                 "symfony/deprecation-contracts": "^2.5|^3.0",
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
                 "symfony/polyfill-ctype": "^1.8"
             },
             "conflict": {
@@ -9383,6 +9858,7 @@
             },
             "require-dev": {
                 "symfony/console": "^6.4|^7.0"
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
             "time": "2024-12-02T08:43:31+00:00"
@@ -9414,6 +9890,8 @@
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
             },
             "bin": [
                 "Resources/bin/yaml-lint"
@@ -9446,6 +9924,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/yaml/tree/v7.1.6"
 =======
                 "source": "https://github.com/symfony/yaml/tree/v6.4.13"
@@ -9453,6 +9932,9 @@
 =======
                 "source": "https://github.com/symfony/yaml/tree/v7.2.0"
 >>>>>>> feature/Projects
+=======
+                "source": "https://github.com/symfony/yaml/tree/v7.1.6"
+>>>>>>> feature/Employee
             },
             "funding": [
                 {
@@ -9470,6 +9952,7 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2024-09-25T14:20:29+00:00"
 =======
             "time": "2024-09-25T14:18:03+00:00"
@@ -9477,6 +9960,9 @@
 =======
             "time": "2024-10-23T06:56:12+00:00"
 >>>>>>> feature/Projects
+=======
+            "time": "2024-09-25T14:20:29+00:00"
+>>>>>>> feature/Employee
         },
         {
             "name": "theseer/tokenizer",
@@ -9532,19 +10018,27 @@
     "aliases": [],
     "minimum-stability": "stable",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "stability-flags": {},
 =======
     "stability-flags": [],
 >>>>>>> feature/Projects
+=======
+    "stability-flags": [],
+>>>>>>> feature/Employee
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
         "php": "^8.1"
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "platform-dev": {},
 =======
     "platform-dev": [],
 >>>>>>> feature/Projects
+=======
+    "platform-dev": [],
+>>>>>>> feature/Employee
     "plugin-api-version": "2.6.0"
 }

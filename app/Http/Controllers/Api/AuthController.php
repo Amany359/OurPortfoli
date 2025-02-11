@@ -11,6 +11,7 @@ use Illuminate\Support\Facades\Hash;
 use Symfony\Component\Console\Input\Input;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Mail;
 use App\Mail\SendMail;
@@ -22,6 +23,8 @@ use Illuminate\Support\Str;
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
 
 class AuthController extends Controller
 {
@@ -31,6 +34,7 @@ class AuthController extends Controller
         $validator = Validator::make($request->all(), [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             'name' => 'required|string|max:50',
 =======
             'name' => 'required|max:50',
@@ -38,6 +42,9 @@ class AuthController extends Controller
 =======
             'name' => 'required|max:50',
 >>>>>>> feature/Projects
+=======
+            'name' => 'required|max:50',
+>>>>>>> feature/Employee
             'email' => 'required|email|unique:users',
             'phone' => 'required',
             'password' => 'required|same:confirm_password|min:8',
@@ -58,6 +65,7 @@ class AuthController extends Controller
             'password'=>Hash::make($request->password),
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             'remember_token'=>Str::random(40),
         ]);
         
@@ -69,14 +77,19 @@ class AuthController extends Controller
 =======
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
         ]);
 
         return response()->json([
             'message' => 'تم التسجيل بنجاح',
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
             'data' => $user
         ],200);
     }
@@ -90,6 +103,7 @@ class AuthController extends Controller
         ]);
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
         $user = User::where('email','=',$request->email)->first();
 
@@ -100,6 +114,8 @@ class AuthController extends Controller
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
         if ($validator->fails()) {
             return response()->json([
                 'message' => 'حدث خطأ',
@@ -117,6 +133,7 @@ class AuthController extends Controller
         if(Auth::attempt($userdata)){
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             if($user->email_verified_at==null){
                 return response()->json([
                     'message' => 'تحقق من تفعيل الايميل',
@@ -130,6 +147,9 @@ class AuthController extends Controller
 =======
             $token = $user->createToken('auth-token')->plainTextToken;
 >>>>>>> feature/Projects
+=======
+            $token = $user->createToken('auth-token')->plainTextToken;
+>>>>>>> feature/Employee
             return response()->json([
                 'message' => 'تم الدخول بنجاح',
                 'token'=>$token,
@@ -141,6 +161,7 @@ class AuthController extends Controller
             ],400);
         }
     }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 
@@ -170,4 +191,6 @@ class AuthController extends Controller
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
 }

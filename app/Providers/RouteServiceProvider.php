@@ -29,6 +29,7 @@ class RouteServiceProvider extends ServiceProvider
         $this->routes(function () {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             Route::middleware('api')
 =======
             Route::middleware('api','CheckLangApi')
@@ -36,6 +37,9 @@ class RouteServiceProvider extends ServiceProvider
 =======
             Route::middleware('api')
 >>>>>>> feature/Projects
+=======
+            Route::middleware('api')
+>>>>>>> feature/Employee
                 ->prefix('api')
                 ->group(base_path('routes/api.php'));
 

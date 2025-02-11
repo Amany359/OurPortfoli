@@ -4,6 +4,7 @@ namespace App\Models;
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 use Illuminate\Contracts\Auth\MustVerifyEmail;
 =======
 // use Illuminate\Contracts\Auth\MustVerifyEmail;
@@ -11,10 +12,14 @@ use Illuminate\Contracts\Auth\MustVerifyEmail;
 =======
 // use Illuminate\Contracts\Auth\MustVerifyEmail;
 >>>>>>> feature/Projects
+=======
+// use Illuminate\Contracts\Auth\MustVerifyEmail;
+>>>>>>> feature/Employee
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 use App\Notifications\CustomVerifyEmail;
@@ -30,6 +35,11 @@ class User extends Authenticatable
 
 class User extends Authenticatable
 >>>>>>> feature/Projects
+=======
+
+
+class User extends Authenticatable
+>>>>>>> feature/Employee
 {
     use HasApiTokens, HasFactory, Notifiable;
 
@@ -45,12 +55,15 @@ class User extends Authenticatable
         'password',
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         'remember_token',
         'email_verified_at',
 =======
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
     ];
 
     /**
@@ -73,6 +86,7 @@ class User extends Authenticatable
     ];
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
     public function sendEmailVerificationNotification()
     {
@@ -82,4 +96,6 @@ class User extends Authenticatable
 >>>>>>> feature/setting
 =======
 >>>>>>> feature/Projects
+=======
+>>>>>>> feature/Employee
 }

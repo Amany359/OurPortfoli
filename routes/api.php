@@ -4,6 +4,7 @@ use Illuminate\Http\Request;
 use App\Http\Controllers\Api\AuthController;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 use App\Http\Controllers\Api\SettingController;
 >>>>>>> feature/setting
@@ -14,6 +15,15 @@ use App\Http\Controllers\Api\ProjectController;
 >>>>>>> feature/Projects
 use Illuminate\Support\Facades\Route;
 
+=======
+use Illuminate\Support\Facades\Route;
+
+
+
+
+use App\Http\Controllers\Api\EmployeeController;
+
+>>>>>>> feature/Employee
 /*
 |--------------------------------------------------------------------------
 | API Routes
@@ -31,6 +41,7 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 
 Route::post('/register',[AuthController::class,'register']);
 Route::post('/login',[AuthController::class,'login']);
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Route::get('/{token}/verify',[AuthController::class,'verify']);
@@ -65,3 +76,10 @@ Route::get('/projects_nothidden',[ProjectController::class,'appear']);
 //كل المشاريع المخفيه
 Route::get('/projects_hidden',[ProjectController::class,'hidden']);
 >>>>>>> feature/Projects
+=======
+
+
+
+Route::apiResource('employees', EmployeeController::class);
+
+>>>>>>> feature/Employee

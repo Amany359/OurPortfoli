@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <?php
+=======
+<!-- <?php -->
+>>>>>>> feature/Employee
 
 namespace Database\Seeders;
 
