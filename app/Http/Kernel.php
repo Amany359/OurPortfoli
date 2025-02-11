@@ -2,6 +2,10 @@
 
 namespace App\Http;
 
+<<<<<<< HEAD
+=======
+use Illuminate\Auth\Middleware\CheckLangApi;
+>>>>>>> feature/setting
 use Illuminate\Foundation\Http\Kernel as HttpKernel;
 
 class Kernel extends HttpKernel
@@ -64,5 +68,10 @@ class Kernel extends HttpKernel
         'signed' => \App\Http\Middleware\ValidateSignature::class,
         'throttle' => \Illuminate\Routing\Middleware\ThrottleRequests::class,
         'verified' => \Illuminate\Auth\Middleware\EnsureEmailIsVerified::class,
+<<<<<<< HEAD
+=======
+        'CheckLangApi' => CheckLangApi::class,
+
+>>>>>>> feature/setting
     ];
 }

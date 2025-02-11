@@ -181,7 +181,11 @@ return [
         Illuminate\Translation\TranslationServiceProvider::class,
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
+<<<<<<< HEAD
      
+=======
+
+>>>>>>> feature/setting
         /*
          * Package Service Providers...
          */
@@ -194,7 +198,10 @@ return [
         // App\Providers\BroadcastServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
+<<<<<<< HEAD
         Ichtrojan\Otp\OtpServiceProvider::class,
+=======
+>>>>>>> feature/setting
 
     ],
 
@@ -211,7 +218,10 @@ return [
 
     'aliases' => Facade::defaultAliases()->merge([
         // 'ExampleClass' => App\Example\ExampleClass::class,
+<<<<<<< HEAD
         'Otp'=>Ichtrojan\Otp\Otp::class,
+=======
+>>>>>>> feature/setting
     ])->toArray(),
 
 ];

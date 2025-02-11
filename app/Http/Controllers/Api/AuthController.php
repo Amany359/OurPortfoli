@@ -9,6 +9,7 @@ use App\Models\User;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
 use Symfony\Component\Console\Input\Input;
+<<<<<<< HEAD
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Mail;
 use App\Mail\SendMail;
@@ -16,6 +17,8 @@ use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Str;
 
 
+=======
+>>>>>>> feature/setting
 
 class AuthController extends Controller
 {
@@ -23,7 +26,11 @@ class AuthController extends Controller
     public function register(Request $request)
     {
         $validator = Validator::make($request->all(), [
+<<<<<<< HEAD
             'name' => 'required|string|max:50',
+=======
+            'name' => 'required|max:50',
+>>>>>>> feature/setting
             'email' => 'required|email|unique:users',
             'phone' => 'required',
             'password' => 'required|same:confirm_password|min:8',
@@ -42,6 +49,7 @@ class AuthController extends Controller
             'phone'=>$request->phone,
             'role'=>1,
             'password'=>Hash::make($request->password),
+<<<<<<< HEAD
             'remember_token'=>Str::random(40),
         ]);
         
@@ -50,6 +58,12 @@ class AuthController extends Controller
         Mail::to($request->email,)->send(new SendMail($user,$subjec,$body));
         return response()->json([
             'message' => 'تحقق من البريد الإلكتروني لتفعيل حسابك',
+=======
+        ]);
+
+        return response()->json([
+            'message' => 'تم التسجيل بنجاح',
+>>>>>>> feature/setting
             'data' => $user
         ],200);
     }
@@ -61,12 +75,15 @@ class AuthController extends Controller
             'password' => 'required',
 
         ]);
+<<<<<<< HEAD
 
         $user = User::where('email','=',$request->email)->first();
 
      
   
       
+=======
+>>>>>>> feature/setting
         if ($validator->fails()) {
             return response()->json([
                 'message' => 'حدث خطأ',
@@ -82,6 +99,7 @@ class AuthController extends Controller
           );
 
         if(Auth::attempt($userdata)){
+<<<<<<< HEAD
             if($user->email_verified_at==null){
                 return response()->json([
                     'message' => 'تحقق من تفعيل الايميل',
@@ -89,6 +107,9 @@ class AuthController extends Controller
 
             $token = $user->createToken('auth-token')->plainTextToken;
 
+=======
+            $token = $user->createToken('auth-token')->plainTextToken;
+>>>>>>> feature/setting
             return response()->json([
                 'message' => 'تم الدخول بنجاح',
                 'token'=>$token,
@@ -100,6 +121,7 @@ class AuthController extends Controller
             ],400);
         }
     }
+<<<<<<< HEAD
 
     
     public function verify(string $token){
@@ -123,4 +145,6 @@ class AuthController extends Controller
 
 
 
+=======
+>>>>>>> feature/setting
 }

@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/setting
 /.phpunit.cache
 /node_modules
 /public/build
@@ -17,6 +20,7 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+<<<<<<< HEAD
 =======
 /vendor/
 node_modules/
@@ -49,3 +53,5 @@ Homestead.json
 .phpactor.json
 auth.json
 >>>>>>> d91cbea84ecbadc0c57a67702d85103390bcca78
+=======
+>>>>>>> feature/setting

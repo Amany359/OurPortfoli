@@ -2,6 +2,10 @@
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Api\AuthController;
+<<<<<<< HEAD
+=======
+use App\Http\Controllers\Api\SettingController;
+>>>>>>> feature/setting
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -21,6 +25,11 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 
 Route::post('/register',[AuthController::class,'register']);
 Route::post('/login',[AuthController::class,'login']);
+<<<<<<< HEAD
 Route::get('/{token}/verify',[AuthController::class,'verify']);
 
 
+=======
+
+Route::post('settings',[SettingController::class,'index']);
+>>>>>>> feature/setting

@@ -2,14 +2,24 @@
 
 namespace App\Models;
 
+<<<<<<< HEAD
 use Illuminate\Contracts\Auth\MustVerifyEmail;
+=======
+// use Illuminate\Contracts\Auth\MustVerifyEmail;
+>>>>>>> feature/setting
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
+<<<<<<< HEAD
 use App\Notifications\CustomVerifyEmail;
 
 class User extends Authenticatable implements MustVerifyEmail
+=======
+
+
+class User extends Authenticatable
+>>>>>>> feature/setting
 {
     use HasApiTokens, HasFactory, Notifiable;
 
@@ -23,8 +33,11 @@ class User extends Authenticatable implements MustVerifyEmail
         'phone',
         'email',
         'password',
+<<<<<<< HEAD
         'remember_token',
         'email_verified_at',
+=======
+>>>>>>> feature/setting
     ];
 
     /**
@@ -45,9 +58,12 @@ class User extends Authenticatable implements MustVerifyEmail
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+<<<<<<< HEAD
 
     public function sendEmailVerificationNotification()
     {
         $this->notify(new CustomVerifyEmail);
     }
+=======
+>>>>>>> feature/setting
 }
