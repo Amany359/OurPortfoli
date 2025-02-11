@@ -1,10 +1,13 @@
 <?php
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 use App\Http\Controllers\TestController;
 use Illuminate\Support\Facades\Auth;
 =======
 >>>>>>> feature/setting
+=======
+>>>>>>> feature/Projects
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -22,6 +25,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> feature/setting
+=======
+>>>>>>> feature/Projects

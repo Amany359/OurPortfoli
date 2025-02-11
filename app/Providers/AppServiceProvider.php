@@ -3,10 +3,13 @@
 namespace App\Providers;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 use App\Models\Setting;
 use Illuminate\Pagination\Paginator;
 >>>>>>> feature/setting
+=======
+>>>>>>> feature/Projects
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
@@ -23,6 +26,7 @@ class AppServiceProvider extends ServiceProvider
      * Bootstrap any application services.
      */
 <<<<<<< HEAD
+<<<<<<< HEAD
     public function boot(): void
     {
         //
@@ -35,5 +39,10 @@ class AppServiceProvider extends ServiceProvider
             'setting'=>$settings,
         ]);
 >>>>>>> feature/setting
+=======
+    public function boot(): void
+    {
+        //
+>>>>>>> feature/Projects
     }
 }
